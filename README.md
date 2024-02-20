@@ -1,4 +1,4 @@
-# Sketch Board
+# Sketch Board - (Incomplete styling)
 
 Create and customize your own digital sketch board with this interactive web application. This project utilizes JavaScript to dynamically generate and modify the HTML structure, allowing users to draw and modify a grid of squares dynamically. The styling is done using CSS with Flexbox for a responsive layout.
 
